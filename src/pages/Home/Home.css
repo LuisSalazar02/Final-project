@@ -1,0 +1,42 @@
+.hero {
+  text-align: center;
+  height: 410px;
+  padding-top: 150px;
+  color: #ffffff;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.list {
+  margin-left: 10px;
+}
+
+.allProducts {
+  text-align: center;
+}
+
+.btn-all {
+  margin-top: 30px;
+  color: #f44336;
+  border-color: #f44336;
+  width: 200px;
+  height: 40px;
+  font-weight: bold;
+  border-radius: 0px;
+}
+
+.categories {
+  text-align: center;
+  margin-left: 30px;
+}
+
+.btn-blue {
+  margin-top: 30px;
+  color: #2196f3;
+  border-color: #2196f3;
+  width: 160px;
+  height: 40px;
+  display: inline-block;
+  margin-right: 40px;
+  border-radius: 0px;
+}

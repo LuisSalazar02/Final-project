@@ -1,0 +1,34 @@
+.productImage {
+  width: 700px;
+  display: block;
+  float: left;
+}
+
+.infoCard {
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 32%;
+  display: inline-block;
+  margin-left: 30px;
+  margin-top: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 480px;
+}
+
+.price {
+  text-align: right;
+  font-weight: bold;
+  font-size: 1.17em;
+}
+
+.gray {
+  color: #999999;
+}
+
+.btn-add {
+  color: #fff;
+  background-color: #f44336;
+  border-radius: 35px;
+  border: 1px solid #f44336;
+}
